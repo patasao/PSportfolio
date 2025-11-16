@@ -1,3 +1,17 @@
+
+--- Introduction ---
+
+Hello, my name is Pataraporn Saowapark.
+I have interested in data analysis and This is my portfolio that contain my data analysis project on my interesting subject.
+
+--- Analysis tools ---
+- Power BI
+- Python
+- SQL
+- Excel
+
+--- Website Theme Credit ---
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
