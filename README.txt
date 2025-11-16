@@ -1,8 +1,9 @@
 
 --- Introduction ---
 
-Hello, my name is Pataraporn Saowapark.
-I have interested in data analysis and This is my portfolio that contain my data analysis project on my interesting subject.
+Hello, I'm Pataraporn Saowapark. 
+This portfolio contains various data analysis projects across subjects of personal interest, 
+demonstrating my ability to collect, process, analyze, and interpret data to find meaningful patterns.
 
 --- Analysis tools ---
 - Power BI
